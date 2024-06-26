@@ -6,7 +6,7 @@ import 'package:sem_project_new/UI%20Pages/FootballIntro.dart';
 import 'package:sem_project_new/UI%20Pages/SplashScreen.dart';
 import 'package:sem_project_new/UI%20Pages/StandingsIntro.dart';
 // import 'package:sem_project_new/UI%20Pages/api_2.dart';
-
+//change 2
 import 'UI Pages/HomePage.dart';
 
 void main() {
